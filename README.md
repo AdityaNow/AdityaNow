@@ -9,3 +9,5 @@ ________________________________________________________________________________
 - ♻️  I find immense joy in refining methods and cooking up solutions
 - 🚫 Beware of the code chaos monster! Messy code is my arch-nemesis.
 ________________________________________________________________________________________________
+
+####  :muscle::cowboy_hat_face:	Thanks for visiting! Feel free to reach out to me for collaborations & if you have exciting opportunities.
