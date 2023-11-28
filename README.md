@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**AdityaNow/AdityaNow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋  Hi, I’m @Aditya
+- 👀  I'm working on Software Automation > RPA, Cypress, Selenium
+- 🌱  Let's Solve Something New!
+- 📫  Reach me: adityamali1208@gmail.com
+  ________________________________________________________________________________________________
+  #### ⚡ Fun facts about me
+- 🐛 I have a secret talent – breaking code! But don't worry, it's all in the name of improvement
+- ♻️  I find immense joy in refining methods and cooking up solutions
+- 🚫 Beware of the code chaos monster! Messy code is my arch-nemesis.
+  ________________________________________________________________________________________________
