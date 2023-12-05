@@ -12,8 +12,8 @@ ________________________________________________________________________________
 
 ####  :muscle::cowboy_hat_face:	Thanks for visiting! Feel free to reach out to me for collaborations & if you have exciting opportunities.
  <div style="display: flex; justify-content: space-between">    
-    <a href="https://github.com/adityamali12/github-readme-stats style="display: flex;">
-      <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamali12&layout=donut-vertical" />
-      <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=adityamali12&show_icons=true" />
+    <a href="https://github.com/AdityaNow/github-readme-stats style="display: flex;">
+      <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&layout=donut-vertical" />
+      <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=AdityaNow&show_icons=true" />
     </a>
  </div>
