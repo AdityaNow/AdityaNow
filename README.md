@@ -13,8 +13,8 @@ ________________________________________________________________________________
 ####  :muscle::cowboy_hat_face:	Thanks for visiting! Feel free to reach out to me for collaborations & if you have exciting opportunities.
 
 <a href="https://github.com/AdityaNow/github-readme-stats">
-  <img height=220 width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaNow&theme=vue&show_icons=true" />
+  <img height=220 width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaNow&theme=shadow_red&show_icons=true" />
 </a>
 <a href="https://github.com/AdityaNow/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&hide_progress=false&theme=vue"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&hide_progress=false&theme=shadow_red"/>
 </a>
