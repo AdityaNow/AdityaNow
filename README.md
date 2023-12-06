@@ -16,5 +16,5 @@ ________________________________________________________________________________
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaNow" />
 </a>
 <a href="https://github.com/AdityaNow/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&layout=donut-vertical"/>
 </a>
