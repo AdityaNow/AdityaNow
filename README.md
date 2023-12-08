@@ -1,6 +1,6 @@
 
 ### 👋  Hi, I’m @Aditya
-##### 👀  I'm working on Software Automation > RPA, Cypress, Selenium
+##### 👀  I'm working on Software Automation > Robot Framework, Cypress, Selenium
 ##### 🌱  Let's Solve Something New!
 ##### 📫  Reach me: adityamali1208@gmail.com
 ________________________________________________________________________________________________
