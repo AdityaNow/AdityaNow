@@ -15,6 +15,6 @@ ________________________________________________________________________________
 <a href="https://github.com/AdityaNow/github-readme-stats">
   <img height=220 width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaNow&show_icons=true" />
 </a>
-<a href="https://github.com/AdityaNow/convoychat">
+<a href="https://github.com/AdityaNow/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&hide_progress=false"/>
 </a>
