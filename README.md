@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=24&pause=500&color=1AB0F7&background=FFFFFF00&random=false&width=435&height=35&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aditya" alt="Typing SVG" /></a>
 
 ##### 👀  I'm working on Software Automation > Robot Framework, Cypress, Selenium 
-##### :man_student: Pursuing - Master of Technology (MTech) in Software Engineering
+##### :man_student: Pursuing - Master of Technology (MTech) in Software Engineering from BITS - Pilani
 ##### :mortar_board: Acquired - Bachelor of Engineering (BE) in Electronics & Telecommunication Engineering
 ##### 🌱  Let's Solve Something New!
 ##### 📫  Reach me: adityamali1208@gmail.com
