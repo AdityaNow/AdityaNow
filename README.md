@@ -6,12 +6,12 @@
 ##### :mortar_board: Acquired - Bachelor of Engineering (BE) in Electronics & Telecommunication Engineering
 ##### 🌱  Let's Solve Something New!
 ##### 📫  Reach me: adityamali1208@gmail.com
-________________________________________________________________________________________________
+_________________________________________________________________________________________________
   #### ⚡ Fun facts about me
 - 🐛 I have a secret talent – breaking code! But don't worry, it's all in the name of improvement
 - ♻️  I find immense joy in refining methods and cooking up solutions
 - 🚫 Beware of the code chaos monster! Messy code is my arch-nemesis.
-________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 ####  :muscle::cowboy_hat_face:	Thanks for visiting! Feel free to reach out to me for collaborations & if you have exciting opportunities.
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNow&hide_progress=true&langs_count=8"/>
 </a>
 
-________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
   #### 🚀 Languages and Tools
 <p align="left">
